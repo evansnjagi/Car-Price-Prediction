@@ -35,7 +35,7 @@ This project focuses on building a car price prediction model using machine lear
 #### 6. **Minimal Viable Product (MVP)**:
    - A simple **MVP** is developed to demonstrate the car price prediction model in action. It allows users to input data and receive a car price prediction in real-time.
    
-  - [![Watch the video](https://github.com/evansnjagi/Car-Price-Prediction/blob/Video-and-Pictures/WhatsApp%20Image%202025-04-15%20at%209.10.05%20AM.jpeg)](video.mp4.mp4)
+  - [![Watch the video](https://github.com/evansnjagi/Car-Price-Prediction/blob/Video-and-Pictures/WhatsApp%20Image%202025-04-15%20at%209.10.05%20AM.jpeg)](https://vm.tiktok.com/ZMBgdSsnb/)
 
 ---
 ### Technologies Used - Logos
