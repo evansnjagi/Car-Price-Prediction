@@ -38,7 +38,7 @@ A **feature importance plot** visualizes which features impact car prices most.
 - A simple interface allows users to input data and receive **real-time predictions**.
 - 🎬 **Watch the demo video** below:
 
-[![Watch the video]()](https://github.com/evansnjagi/Car-Price-Prediction)
+[![Watch the video](https://github.com/evansnjagi/Car-Price-Prediction/blob/Video-and-Pictures/WhatsApp%20Image%202025-04-15%20at%209.10.05%20AM.jpeg)](https://vm.tiktok.com/ZMBgdSsnb/)
 
 ---
 
