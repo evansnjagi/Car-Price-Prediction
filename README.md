@@ -34,8 +34,8 @@ This project focuses on building a car price prediction model using machine lear
 
 #### 6. **Minimal Viable Product (MVP)**:
    - A simple **MVP** is developed to demonstrate the car price prediction model in action. It allows users to input data and receive a car price prediction in real-time.
-   - You Can watch the video
-     [![Watch the video](https://github.com/evansnjagi/Car-Price-Prediction/blob/Video-and-Pictures/WhatsApp%20Image%202025-04-15%20at%209.10.05%20AM.jpeg)](videos/demo.mp4)
+   
+  - [![Watch the video](https://github.com/evansnjagi/Car-Price-Prediction/blob/Video-and-Pictures/WhatsApp%20Image%202025-04-15%20at%209.10.05%20AM.jpeg)](videos/demo.mp4)
 
 ---
 ### Technologies Used - Logos
@@ -76,10 +76,6 @@ The project repository is organized into the following key components:
 
 ```plaintext
 /car-price-prediction
-    ├── data_preprocessing.py      # Script for data cleaning and feature engineering
-    ├── model.py                   # Model definition and training
-    ├── pipeline.py                # The machine learning pipeline
-    ├── feature_importance.py      # Script to generate feature importance plot
-    └── mvp_interface.py           # Minimal viable product for real-time predictions
-
-
+    ├── CarPriceModelling.ipynb    # Notebook where, Preprocessing, Modelling and Communication done
+    ├── Video-and-Pictures         # Project Images and Video
+    ├── Datasets                   # Dataset use in this project
